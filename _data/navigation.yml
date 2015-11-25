@@ -3,11 +3,14 @@
 - title: About
   url: /about/
 
-- title: Sample Posts
-  url: /posts/
+- title: Vale Lab Microscopes
+  url: /microscopes/
 
-- title: Theme Setup
+- title: Protocols and Recipes
+  url: /protocols/
+
+- title: Various
   url: /theme-setup/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Vale Lab
+  url: http://valelab.ucsf.edu

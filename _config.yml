@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Microscopy and more...
 locale:           en_US
-url:
+url:              
 
 
 # Jekyll configuration
@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Nico Stuurman
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "Scientist/programmer/microscopist in Ron Vale's lab at UCSF"
+  email: nico.stuurman at ucsf.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -40,7 +40,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: nicost
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
