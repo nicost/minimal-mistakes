@@ -1,9 +1,9 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "A website for stuff related to microscopes, software, and Vale lab stuff"
+tags: [Microscopy, microscope control software, molecular motors]
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: LaserSpeckles.jpg
+  credit: Nico Stuurman
+  creditlink: http://valelab.ucsf.edu/~nstuurman
 ---
