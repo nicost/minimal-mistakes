@@ -7,7 +7,7 @@
 {% include _head.html %}
 </head>
 
-<body class="microscope-index">
+<body class="microscope">
 
 {% include _browser-upgrade.html %}
 
@@ -30,23 +30,22 @@
 
 <div id="main" role="main">
   <div class="article-author-side">
-    {% include _author-bio.html %}
+     {% include _author-bio.html %} 
   </div>
-  <div id="index">
+  <article class="page">
     <h1>{{ page.title }}</h1>
-    {% capture written_year %}'None'{% endcapture %}
-    {% for post in site.categories.microscopes %}  
-      <article>
-        {% if post.link %}
-          <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
-        {% else %}
-          <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-          <p><a href="{{site.url }}{{ post.url}}" title="{{ post.title }}"i>{{ post.excerpt }}</a></p>
-        {% endif %}
-      </article>
-    {% endfor %}
-  </div><!-- /#index -->
-</div><!-- /#main -->
+    <div class="article-wrap">
+      {{ content }}
+      {% if page.share != false %}
+        <hr />
+        {% include _social-share.html %}
+      {% endif %}
+    </div><!-- /.article-wrap -->
+    {% if site.owner.disqus-shortname and page.comments == true %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
 
 <div class="footer-wrap">
   <footer>

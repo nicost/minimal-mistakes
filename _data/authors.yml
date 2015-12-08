@@ -1,15 +1,5 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
-  google:
-    plus: BillyRick
-
 cornelius_fiddlebone:
   name: Cornelius Fiddlebone
   email: cornelius@thewhip.com
@@ -18,3 +8,29 @@ cornelius_fiddlebone:
   twitter: rhymeswithsackit
   google:
     plus: CorneliusFiddlebone
+
+oldTIRF:
+  name: oldTIRF
+  bio: "The Nikon TE2000 TIRF microscope in N321."
+  avatar: oldTIRF.jpg
+
+superScope:
+  name: SuperScope
+  bio: "The Confocal/TIRF/Bleaching super Machine"
+  avatar: superScope.jpg
+
+newTIRF:
+  name: newTIRF
+  bio: "The ultra-stable home-build TIRF scope"
+  avatar: newTIRF.jpg
+
+newEpi:
+  name: newEpi
+  bio: "Nice Ti-E with LEDs and temp control"
+  avatar: nepi-scope.jpg
+
+microscope:
+  name: Microscopes 
+  bio: "Microscopes in the Vale Lab"
+  avatar: superScope.jpg
+
