@@ -1,0 +1,30 @@
+---
+layout: microscope 
+title: New TIRF
+author: newTIRF 
+share: false
+modified:
+categories: microscopes
+tags: []
+date: 2015-12-08T14:27:05-08:00
+image:
+  feature: LaserSpeckles.jpg
+  credit: Nico Stuurman
+  creditlink: http://valelab.ucsf.edu/~nstuurman
+---
+![New TIRF]({{ site.baseurl }}/images/newTIRF.jpg){:height="104px" width="208px"}
+
+##Microscope:
+* Nikon TI-E 
+
+##Objectives:
+* 100x 1.45na oil immersion
+
+##Cameras:
+* 2 Andor 512x512 EM cameras
+
+##Lasers:
+* Coherent 488nm (150mW)
+* Coherent 561nm (150mW)
+* Coherent 640nm (100mW) 
+
