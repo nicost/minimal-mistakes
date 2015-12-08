@@ -1,0 +1,26 @@
+---
+layout: microscope 
+title: diSPIM
+author: diSPIM
+share: false
+modified:
+categories: microscopes
+tags: []
+date: 2015-12-08T14:27:05-08:00
+image:
+  feature: LaserSpeckles.jpg
+  credit: Nico Stuurman
+  creditlink: http://valelab.ucsf.edu/~nstuurman
+---
+![Old TIRF]({{ site.baseurl }}/images/diSPIM.jpg){:height="104px" width="208px"}
+
+##Microscope:
+* ASI RAMM scope
+
+##Objectives:
+* 40x.8na water dipping
+
+##Cameras:
+* 2 Hamamatsu Flash 4 sCMOS cameras
+* Andor Zyla sCMOS
+

@@ -29,6 +29,11 @@ newEpi:
   bio: "Nice Ti-E with LEDs and temp control"
   avatar: nepi-scope.jpg
 
+diSPIM:
+  name: diSPIM
+  bio: "ASIdiSPIM mciroscope"
+  avatar: diSPIM.jpg
+
 microscope:
   name: Microscopes 
   bio: "Microscopes in the Vale Lab"
