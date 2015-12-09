@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About this Site
+share: false
 tags: [about, Nico Stuurman, Vale Lab, Microscopes, Microscope Software]
 comments: true
 image:
