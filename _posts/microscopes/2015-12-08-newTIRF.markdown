@@ -12,7 +12,7 @@ image:
   credit: Nico Stuurman
   creditlink: http://valelab.ucsf.edu/~nstuurman
 ---
-![New TIRF]({{ site.baseurl }}/images/newTIRF.jpg){:height="104px" width="208px"}
+![New TIRF]({{ site.baseurl }}/siteimages/newTIRF.jpg){:height="104px" width="208px"}
 
 
 ##Microscope:
@@ -30,26 +30,26 @@ Filters were obtained from [Chroma](http://chroma.com) unless otherwise indicate
 
 ###Upper Turret
 
-* [Quad Cube (405-488-561-640)]({{ site.baseurl }}/images/Filters/NewTIRF/Quad.jpg)
-* [532nm Cube]({{ site.baseurl }}/images/Filters/NewTIRF/532-Cube.jpg)
-* [532-633 Cube]({{ site.baseurl }}/images/Filters/NewTIRF/532-633Set.jpg)
+* [Quad Cube (405-488-561-640)]({{ site.baseurl }}/siteimages/Filters/NewTIRF/Quad.jpg)
+* [532nm Cube]({{ site.baseurl }}/siteimages/Filters/NewTIRF/532-Cube.jpg)
+* [532-633 Cube]({{ site.baseurl }}/siteimages/Filters/NewTIRF/532-633Set.jpg)
   
 
 ###Lower Turret
 
-* [zet405-488m Emission Filter]({{ site.baseurl }}/images/Filters/NewTIRF/zet405-488m.jpg)
-* [zet561-640m Emission Filter]({{ site.baseurl }}/images/Filters/NewTIRF/zet561-640m.jpg)
-* [Quad-Emission]({{ site.baseurl }}/images/Filters/NewTIRF/QuadEMission.jpg)
-* [GFP-Cherry-Dichroic]({{ site.baseurl }}/images/Filters/NewTIRF/GFP-Cherry-Dichroic.jpg)
-* [Cy3-Cy5 image Splitting]({{ site.baseurl }}/images/Filters/NewTIRF/Cy3-Cy5-Cube.jpg)
-* [ET450-50m]({{ site.baseurl }}/images/Filters/NewTIRF/ET450-50m.jpg)
-* [ET525-50m]({{ site.baseurl }}/images/Filters/NewTIRF/ET525-50m.jpg)
-* [ET600-50m]({{ site.baseurl }}/images/Filters/NewTIRF/ET600-50m.jpg)
-* [ET700-75m]({{ site.baseurl }}/images/Filters/NewTIRF/ET700-75m.jpg)
+* [zet405-488m Emission Filter]({{ site.baseurl }}/siteimages/Filters/NewTIRF/zet405-488m.jpg)
+* [zet561-640m Emission Filter]({{ site.baseurl }}/siteimages/Filters/NewTIRF/zet561-640m.jpg)
+* [Quad-Emission]({{ site.baseurl }}/siteimages/Filters/NewTIRF/QuadEMission.jpg)
+* [GFP-Cherry-Dichroic]({{ site.baseurl }}/siteimages/Filters/NewTIRF/GFP-Cherry-Dichroic.jpg)
+* [Cy3-Cy5 siteimage Splitting]({{ site.baseurl }}/siteimages/Filters/NewTIRF/Cy3-Cy5-Cube.jpg)
+* [ET450-50m]({{ site.baseurl }}/siteimages/Filters/NewTIRF/ET450-50m.jpg)
+* [ET525-50m]({{ site.baseurl }}/siteimages/Filters/NewTIRF/ET525-50m.jpg)
+* [ET600-50m]({{ site.baseurl }}/siteimages/Filters/NewTIRF/ET600-50m.jpg)
+* [ET700-75m]({{ site.baseurl }}/siteimages/Filters/NewTIRF/ET700-75m.jpg)
 
 ##AOTF
 Neos 48062-XX-.55
-
+ 
 
 ##Lasers:
 * CNI 405nm, 80 mW (MDLIII -9070128)

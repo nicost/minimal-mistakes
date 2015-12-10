@@ -12,7 +12,7 @@ image:
   credit: Nico Stuurman
   creditlink: http://valelab.ucsf.edu/~nstuurman
 ---
-![SuperScope]({{ site.baseurl }}/images/superScope.jpg){:height="104px" width="208px"}
+![SuperScope]({{ site.baseurl }}/siteimages/superScope.jpg){:height="104px" width="208px"}
 
 ##Microscope:
 * Nikon TI-E  with motorized TIRF arm
