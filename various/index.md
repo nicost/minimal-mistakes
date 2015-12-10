@@ -22,7 +22,6 @@ image:
 * [Some of Nico's images](http://valelab.ucsf.edu/~nstuurman/images/)
 * [Nico on Github](http://github.com/nicost)
 
-
 <ul>
    {% for post in site.categories.various %}
    <li>
