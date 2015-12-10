@@ -14,6 +14,7 @@ image:
 ---
 ![New TIRF]({{ site.baseurl }}/images/newTIRF.jpg){:height="104px" width="208px"}
 
+
 ##Microscope:
 * Nikon TI-E 
 
@@ -23,8 +24,37 @@ image:
 ##Cameras:
 * 2 Andor 512x512 EM cameras
 
+
+##Filters
+Filters were obtained from [Chroma](http://chroma.com) unless otherwise indicated
+
+###Upper Turret
+
+* [Quad Cube (405-488-561-640)]({{ site.baseurl }}/images/Filters/NewTIRF/Quad.jpg)
+* [532nm Cube]({{ site.baseurl }}/images/Filters/NewTIRF/532-Cube.jpg)
+* [532-633 Cube]({{ site.baseurl }}/images/Filters/NewTIRF/532-633Set.jpg)
+  
+
+###Lower Turret
+
+* [zet405-488m Emission Filter]({{ site.baseurl }}/images/Filters/NewTIRF/zet405-488m.jpg)
+* [zet561-640m Emission Filter]({{ site.baseurl }}/images/Filters/NewTIRF/zet561-640m.jpg)
+* [Quad-Emission]({{ site.baseurl }}/images/Filters/NewTIRF/QuadEMission.jpg)
+* [GFP-Cherry-Dichroic]({{ site.baseurl }}/images/Filters/NewTIRF/GFP-Cherry-Dichroic.jpg)
+* [Cy3-Cy5 image Splitting]({{ site.baseurl }}/images/Filters/NewTIRF/Cy3-Cy5-Cube.jpg)
+* [ET450-50m]({{ site.baseurl }}/images/Filters/NewTIRF/ET450-50m.jpg)
+* [ET525-50m]({{ site.baseurl }}/images/Filters/NewTIRF/ET525-50m.jpg)
+* [ET600-50m]({{ site.baseurl }}/images/Filters/NewTIRF/ET600-50m.jpg)
+* [ET700-75m]({{ site.baseurl }}/images/Filters/NewTIRF/ET700-75m.jpg)
+
+##AOTF
+Neos 48062-XX-.55
+
+
 ##Lasers:
-* Coherent 488nm (150mW)
-* Coherent 561nm (150mW)
+* CNI 405nm, 80 mW (MDLIII -9070128)
+* [Coherent Sapphire 488nm (150mW)](http://www.coherent.com/products/?2038/Sapphire-LP-Low-Power)
+* CNI 532nm MGL-H-532nm-500mW-9060199
+* [Coherent 561nm (150mW)](http://www.coherent.com/products/?2038/Sapphire-LP-Low-Power)
 * Coherent 640nm (100mW) 
 
