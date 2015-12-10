@@ -12,7 +12,7 @@ image:
   credit: Nico Stuurman
   creditlink: http://valelab.ucsf.edu/~nstuurman
 ---
-![Old TIRF]({{ site.baseurl }}/siteimages/diSPIM.jpg){:height="104px" width="208px"}
+![Old TIRF]({{ site.url }}/siteimages/diSPIM.jpg){:height="104px" width="208px"}
 
 ##Microscope:
 * ASI RAMM scope

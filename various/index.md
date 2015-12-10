@@ -9,10 +9,18 @@ image:
   credit: Nico Stuurman
   creditlink: http://valelab.ucsf.edu/~nstuurman
 ---
-***Uncategorized stuff*** 
+***Various software*** 
 
 
 * [Nico's ImageJ plugins (old)](http://valelab.ucsf.edu/~nstuurman/ijplugins/)
+* [Image/Fiji SAIM plugin](http://fiji.sc/Saim)
+* [Image/Fiji Spot Intensity analysis](http://fiji.sc/Spot_Intensity_Analysis)
+* [Image/Fiji Spot Counter](http://fiji.sc/)
+
+
+* [Micro-Manager](http://micro-manager.org)
+
+* [Some of Nico's images](http://valelab.ucsf.edu/~nstuurman/images/)
 
 
 

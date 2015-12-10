@@ -17,7 +17,7 @@ oldTIRF:
 superScope:
   name: SuperScope
   bio: "The Confocal/TIRF/Bleaching super Machine"
-  avatar: superScope.jpg
+  avatar: superscope.jpg
 
 newTIRF:
   name: newTIRF
@@ -37,5 +37,5 @@ diSPIM:
 microscope:
   name: Microscopes 
   bio: "Microscopes in the Vale Lab"
-  avatar: superScope.jpg
+  avatar: superscope.jpg
 

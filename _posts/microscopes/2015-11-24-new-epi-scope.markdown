@@ -12,7 +12,7 @@ image:
   creditlink: http://valelab.ucsf.edu/~nstuurman
 date: 2015-11-24T16:09:05-08:00
 ---
-![New Epi Scope]({{ site.baseurl }}/siteimages/new-epi2.jpg){:height="104px" width="208px"}
+![New Epi Scope]({{ site.url }}/siteimages/new-epi2.jpg){:height="104px" width="208px"}
 
 
 ##Microscope 
@@ -28,4 +28,4 @@ date: 2015-11-24T16:09:05-08:00
 
 ##DMD
 The microscopes currently has a DMD (vendor/model needed) mounted at the back port. It is currently illuminated with a HPX LED (405nm) unit from Sutter (on loan) 
-![DMD]({{ site.baseurl }}/siteimages/newEpiDMD.jpg)
+![DMD]({{ site.url }}/siteimages/newEpiDMD.jpg)
