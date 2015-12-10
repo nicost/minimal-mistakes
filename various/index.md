@@ -16,12 +16,11 @@ image:
 * [Image/Fiji SAIM plugin](http://fiji.sc/Saim)
 * [Image/Fiji Spot Intensity analysis](http://fiji.sc/Spot_Intensity_Analysis)
 * [Image/Fiji Spot Counter](http://fiji.sc/)
-
-
 * [Micro-Manager](http://micro-manager.org)
 
+*** Other things***
 * [Some of Nico's images](http://valelab.ucsf.edu/~nstuurman/images/)
-
+* [Nico on Github](http://github.com/nicost)
 
 
 <ul>
