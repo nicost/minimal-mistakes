@@ -1,7 +1,8 @@
 ---
-layout: microscope-index
+layout: protocols
 excerpt: "Protocols and Recipes"
 author: microscope
+share: off
 tags: [Microscopy, microscope control software, molecular motors]
 modified: 2015-11-25T13:23:02.362000-04:00
 excerpt: "Various Protocols and Recipes"
@@ -11,6 +12,7 @@ image:
   creditlink: http://valelab.ucsf.edu/~nstuurman
 ---
 ***Protocols and Recipes*** 
+
 
 
 <ul>

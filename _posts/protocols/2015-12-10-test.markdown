@@ -1,0 +1,16 @@
+---
+layout: page
+title: Test Protocol
+author: microscopes
+share: false
+modified:
+categories: protocols
+tags: []
+image:
+  feature:  LaserSpeckles.jpg
+  credit: Nico Stuurman
+  creditlink: http://valelab.ucsf.edu/~nstuurman
+date: 2015-11-24T16:09:05-08:00
+---
+![Something]({{ site.url }}/siteimages/new-epi2.jpg){:height="104px" width="208px"}
+
