@@ -22,7 +22,12 @@ image:
 * 100x 1.45na oil immersion
 
 ##Cameras:
-* 2 Andor 512x512 EM cameras
+
+* 2 Andor iXon 512x512 EM cameras, DU-897E
+* [iXon Left Summary]({{ site.url }}/siteimages/iXonLeftNewTIRSummary.jpg)
+* [iXon Left Data]({{ site.url }}/siteimages/iXonLeftNewTIRData.jpg)
+* [iXon Back Summary]({{ site.url }}/siteimages/iXonBackNewTIRSummary.jpg)
+* [iXon Back Data]({{ site.url }}/siteimages/iXonBackNewTIRData.jpg)
 
 
 ##Filters
