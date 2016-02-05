@@ -24,10 +24,10 @@ image:
 ##Cameras:
 
 * 2 Andor iXon 512x512 EM cameras, DU-897E
-* [iXon Left Summary]({{ site.url }}/siteimages/iXonLeftNewTIRSummary.jpg)
-* [iXon Left Data]({{ site.url }}/siteimages/iXonLeftNewTIRData.jpg)
-* [iXon Back Summary]({{ site.url }}/siteimages/iXonBackNewTIRSummary.jpg)
-* [iXon Back Data]({{ site.url }}/siteimages/iXonBackNewTIRData.jpg)
+* [iXon Left Summary]({{ site.url }}/siteimages/iXonLeftNewTIRFSummary.jpg)
+* [iXon Left Data]({{ site.url }}/siteimages/iXonLeftNewTIRFData.jpg)
+* [iXon Back Summary]({{ site.url }}/siteimages/iXonBackNewTIRFSummary.jpg)
+* [iXon Back Data]({{ site.url }}/siteimages/iXonBackNewTIRFData.jpg)
 
 
 ##Filters
