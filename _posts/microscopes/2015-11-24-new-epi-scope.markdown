@@ -20,10 +20,10 @@ date: 2015-11-24T16:09:05-08:00
 * Stage up kit with two manual dichroic turrets.  
 
 ##Objectives
-1. 10x Plan Fluor 10x/0.30 Ph1 DL, ~*/1.2, WD 15.2
-2. 20x Plan Apo VC, 20x0.75, DIC N@, ~*/0.17, WD 1.0, MRD70200
-3. 40x Plan Fluor, 40x/0.75, DIC M/N2, ~*/0.17, WD 0.72
-4. 40x Plan Spo 40x/0.95, DIC M/N2, ~*/0.11-0.23, WD 0.14, 
+1. 10x Plan Fluor 10x/0.30 Ph1 DL, &infin;/1.2, WD 15.2
+2. 20x Plan Apo VC, 20x0.75, DIC N@, &infin;/0.17, WD 1.0, MRD70200
+3. 40x Plan Fluor, 40x/0.75, DIC M/N2, &infin;/0.17, WD 0.72
+4. 40x Plan Spo 40x/0.95, DIC M/N2, &infin;/0.11-0.23, WD 0.14, 
 
 
 ##Lightsource
