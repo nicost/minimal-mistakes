@@ -46,4 +46,4 @@ LEDs: 390/22, 434/17, 485/25, 510/10, 560/25, 575/30, 650/20
 The microscopes currently has a DMD (vendor/model needed) mounted at the back port. It is currently illuminated with a HPX LED (405nm) unit from Sutter (on loan) 
 ![DMD]({{ site.url }}/siteimages/newEpiDMD.jpg)
 
-New DMD is the Texas Instruments LightCrafter.
+New DMD is the Texas Instruments LightCrafter 6500 (http://www.ti.com/tool/dlplcr6500evm).
