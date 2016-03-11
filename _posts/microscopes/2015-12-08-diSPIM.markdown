@@ -15,12 +15,30 @@ image:
 ![Old TIRF]({{ site.url }}/siteimages/diSPIM.jpg){:height="104px" width="208px"}
 
 ##Microscope:
-* ASI RAMM scope
+* ASI RAMM scope with motorized XY stage, diSPIM top part
 
 ##Objectives:
-* 40x.8na water dipping
+* Top: 2x Nikon 40x.8na water dipping
+* Bottom: Andor Zyla
+
+##LightSource
+* Coherent Obis 488nm 100mW
+* Coherent Obix 561nm 50mW
+* Combined using a Leoni fiber combiner: Fiber Optic Switch eol 1x2 VIS - Fiber Nufern S405-XP or similar - Operating wavelength 405 to 640nm - Pigtails 3 X 1m with FC/APC connectors - Comm RS232, I2C, TTL w/out strobe- Housing dimensions 124mm x 56mm x 13mm, Switch
+Fiber Size and Type                                           
+Pigtails and Connectors                                       
+Specs. W/out Connectors                                       
+Quotation Details                                             
+eol 1x2 VIS - - Operating wavelength 405 to 640nm             
+Nufern S405-XP or similar                                     
+Pigtails: 3 X 1 meter with 900um jacketing Connectors: Input 1 X FC/APC, Output 2 x FC/PC
+      Insertion Loss: 3.0 dB (2.0 dB typical), Return Loss > 40dB Crosstalk Adjacent Channel: < - 55 dB
+Switching Time: < 2 ms, Repeatability: < 0.01 dB Guaranteed lifetime: > 100 Mio Cycles
+
 
 ##Cameras:
 * 2 Hamamatsu Flash 4 sCMOS cameras
 * Andor Zyla sCMOS
 
+
+##Filters
