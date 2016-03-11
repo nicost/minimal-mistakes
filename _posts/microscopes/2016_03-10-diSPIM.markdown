@@ -1,0 +1,47 @@
+---
+layout: page
+title: diSPIM
+author: diSPIM
+share: false
+modified:
+categories: microscopes
+tags: []
+image:
+  feature:  LaserSpeckles.jpg
+  credit: Nico Stuurman
+  creditlink: http://valelab.ucsf.edu/~nstuurman
+date: 2016-03-10T10:09:05-08:00
+---
+![diSPIM]({{ site.url }}/siteimages/diSPIM.jpg){:height="104px" width="208px"}
+
+
+##Microscope
+ASI RAMM body with motorized XY stage, diSPIM top part
+
+##Objectives
+* Top: 2x water dipping Nikon 40x 0.8 na
+* Bottom: 20x Nikon Objective
+
+## Cameras
+* Top: 2x Hamamatsu Flash 4.0
+* Bottom: Andor Zyla
+
+##LightSource
+* Coherent Obis 488nm 100mW
+* Coherent Obix 561nm 50mW
+* Combined using a Leoni fiber combiner: Fiber Optic Switch eol 1x2 VIS - Fiber Nufern S405-XP or similar - Operating wavelength 405 to 640nm - Pigtails 3 X 1m with FC/APC connectors - Comm RS232, I2C, TTL w/out strobe- Housing dimensions 124mm x 56mm x 13mm, Switch
+Fiber Size and Type
+Pigtails and Connectors
+Specs. W/out Connectors
+Quotation Details
+eol 1x2 VIS - - Operating wavelength 405 to 640nm
+Nufern S405-XP or similar
+Pigtails: 3 X 1 meter with 900um jacketing Connectors: Input 1 X FC/APC, Output 2 x FC/PC
+      Insertion Loss: 3.0 dB (2.0 dB typical), Return Loss > 40dB Crosstalk Adjacent Channel: < - 55 dB
+Switching Time: < 2 ms, Repeatability: < 0.01 dB Guaranteed lifetime: > 100 Mio Cycles
+
+## Filters
+
+
+
+
