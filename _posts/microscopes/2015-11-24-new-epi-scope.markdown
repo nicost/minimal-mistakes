@@ -60,6 +60,7 @@ LEDs: 390/22, 434/17, 485/25, 510/10, 560/25, 575/30, 650/20
 ##Cameras
 1. Andor Zyla
 2. Hamamatsu EMCCD: C9100-13.  EM-CCD mode has 5.8 electrons per count, Normal CCD mode has 1.4 electrons per count
+
 ##DMD
 The microscopes currently has a DMD (DLP4000 from Digital Light Innovations: http://www.dlinnovations.com) mounted at the back port. It is currently illuminated with a HPX LED (405nm) unit from Sutter (on loan) 
 ![DMD]({{ site.url }}/siteimages/newEpiDMD.jpg)
