@@ -47,7 +47,19 @@ LEDs: 390/22, 434/17, 485/25, 510/10, 560/25, 575/30, 650/20
 3.
 4.
 
+###ASI 25 mm filter wheel behind spinning disk confocal
+1. HQ530/60m
+2. HQ605/75m
+3. S685/40
+4. Open
+5. Closed
+6. Closed
+7. HQ700/100
+8. Open
 
+##Cameras
+1. Andor Zyla
+2. Hamamatsu EMCCD: C9100-13.  EM-CCD mode has 5.8 electrons per count, Normal CCD mode has 1.4 electrons per count
 ##DMD
 The microscopes currently has a DMD (DLP4000 from Digital Light Innovations: http://www.dlinnovations.com) mounted at the back port. It is currently illuminated with a HPX LED (405nm) unit from Sutter (on loan) 
 ![DMD]({{ site.url }}/siteimages/newEpiDMD.jpg)
