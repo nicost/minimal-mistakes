@@ -48,18 +48,18 @@ LEDs: 390/22, 434/17, 485/25, 510/10, 560/25, 575/30, 650/20
 4.
 
 ###CSU10
-Dicchroic
-* Semrock quad dichroic (405/488/568/647)
+Dichroic
+*. Semrock quad dichroic (405/488/568/647)
 
 Blocking filter
-* Chroma [ZET405/488/561/640m] ({{ site.url }}/siteimages/oldUberscope/oldUberscope_ZET405-488-561-640m.jpg)
+*. Chroma [ZET405/488/561/640m]({{ site.url }}/siteimages/oldUberscope/oldUberscope_ZET405-488-561-640m.jpg)
 
 ###ASI 25 mm filter wheel behind spinning disk confocal
-1.Chroma [ET450/50m] ({{ site.url }}/siteimages/oldUberscope/oldUberscope_450-50m.jpg)
-2.Chroma [ET525/50m] ({{ site.url }}/siteimages/oldUberscope/oldUberscope_525-50m.jpg)
-3.Chroma [ET610/75m] ({{ site.url }}/siteimages/oldUberscope/oldUberscope_610-75m.jpg)
-3.Chroma [ET610/75m] ({{ site.url }}/siteimages/oldUberscope/oldUberscope_610-75m.jpg)
-4.Chroma [ET655lp] ({{ site.url }}/siteimages/oldUberscope/oldUberscope_655lp.jpg)
+1. Chroma [ET450/50m]({{ site.url }}/siteimages/oldUberscope/oldUberscope_450-50m.jpg)
+2. Chroma [ET525/50m]({{ site.url }}/siteimages/oldUberscope/oldUberscope_525-50m.jpg)
+3. Chroma [ET610/75m]({{ site.url }}/siteimages/oldUberscope/oldUberscope_610-75m.jpg)
+3. Chroma [ET610/75m]({{ site.url }}/siteimages/oldUberscope/oldUberscope_610-75m.jpg)
+4. Chroma [ET655lp]({{ site.url }}/siteimages/oldUberscope/oldUberscope_655lp.jpg)
 5. Closed
 6. Closed
 7. old Quad bandpass filter
