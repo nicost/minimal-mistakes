@@ -26,9 +26,9 @@ date: 2015-11-24T16:09:05-08:00
 4. 40x Plan Spo 40x/0.95, DIC M/N2, &infin;/0.11-0.23, WD 0.14, 
 
 
-##Lightsource
-Lumencor SpectraX
-LEDs: 390/22, 434/17, 485/25, 510/10, 560/25, 575/30, 650/20
+##Lightsources
+* For EpiFluorescence: Lumencor SpectraX, LEDs: 390/22, 434/17, 485/25, 510/10, 560/25, 575/30, 650/20
+* For Spinning Disk: [Vortran VersaLase](http://www.vortranlaser.com/index.php/products-main/stradus-versalase-multiple-wavelength-modules.html) with 405, 488, 561, and 640nm lasers.
 
 ##Filters
 
@@ -42,24 +42,20 @@ LEDs: 390/22, 434/17, 485/25, 510/10, 560/25, 575/30, 650/20
 2. 450LP mirror from Chroma NC490311 reclaimed cube AT_Coumarin/Pacific Blue Long Pass set
 
 ###ASI 35mm epi filter wheel
-1.
-2.
-3.
-4.
+1. 
+2. 
+3. 
+4. 
 
 ###CSU10
-Dichroic
-*. Semrock quad dichroic (405/488/568/647)
-
-Blocking filter
-*. Chroma [ZET405/488/561/640m]({{ site.url }}/siteimages/oldUberscope/oldUberscope_ZET405-488-561-640m.jpg)
+* Dichroic: Semrock quad dichroic (405/488/568/647)
+* Blocking Filter: Chroma [ZET405/488/561/640m]({{ site.url }}/siteimages/Filters/oldUberscope/oldUberscope_ZET405-488-561-640m.jpg)
 
 ###ASI 25 mm filter wheel behind spinning disk confocal
-1. Chroma [ET450/50m]({{ site.url }}/siteimages/oldUberscope/oldUberscope_450-50m.jpg)
-2. Chroma [ET525/50m]({{ site.url }}/siteimages/oldUberscope/oldUberscope_525-50m.jpg)
-3. Chroma [ET610/75m]({{ site.url }}/siteimages/oldUberscope/oldUberscope_610-75m.jpg)
-3. Chroma [ET610/75m]({{ site.url }}/siteimages/oldUberscope/oldUberscope_610-75m.jpg)
-4. Chroma [ET655lp]({{ site.url }}/siteimages/oldUberscope/oldUberscope_655lp.jpg)
+1. Chroma [ET450/50m]({{ site.url }}/siteimages/Filters/oldUberscope/oldUberscope_450-50m.jpg)
+2. Chroma [ET525/50m]({{ site.url }}/siteimages/Filters/oldUberscope/oldUberscope_525-50m.jpg)
+3. Chroma [ET610/75m]({{ site.url }}/siteimages/Filters/oldUberscope/oldUberscope_610-75m.jpg)
+4. Chroma [ET655lp]({{ site.url }}/siteimages/Filters/oldUberscope/oldUberscope_655lp.jpg)
 5. Closed
 6. Closed
 7. old Quad bandpass filter
@@ -70,8 +66,7 @@ Blocking filter
 2. Hamamatsu EMCCD: C9100-13.  EM-CCD mode has 5.8 electrons per count, Normal CCD mode has 1.4 electrons per count
 
 ##DMD
-The microscopes currently has a DMD (DLP4000 from Digital Light Innovations: http://www.dlinnovations.com) mounted at the back port. It is currently illuminated with a HPX LED (405nm) unit from Sutter (on loan) 
+The microscopes has a DMD [Texas Instruments LightCrafter 6500](http://www.ti.com/tool/dlplcr6500evm). It is illuminated with a HPX LED (405nm) unit from Sutter.
+
 ![DMD]({{ site.url }}/siteimages/newEpiDMD.jpg)
 
-
-New DMD is the Texas Instruments LightCrafter 6500 (http://www.ti.com/tool/dlplcr6500evm).
