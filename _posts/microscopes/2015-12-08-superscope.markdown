@@ -37,14 +37,14 @@ image:
 
 ###ASI Filter Wheel (TIRF/Epi, in front of Flash 4.0 camera)
 
-* [Chroma ET 450/40m]({{ site.url }}/siteimages/SuperScope/SuperScope-T-450m.jpg)  
-* [Chroma ET 525/50m]({{ site.url }}/siteimages/SuperScope/SuperScope-T-525m.jpg)
-* [Chroma ET 605/52m]({{ site.url }}/siteimages/SuperScope/SuperScope-T-605m.jpg)
-* [Chroma ET 705/72m]({{ site.url }}/siteimages/SuperScope/SuperScope-T-705m.jpg)
-* open
-*closed
-* closed
-* open
+1. [Chroma ET 450/40m]({{ site.url }}/siteimages/Filters/SuperScope/SuperScope-T-450m.jpg)  
+2. [Chroma ET 525/50m]({{ site.url }}/siteimages/Filters/SuperScope/SuperScope-T-525m.jpg)
+3. [Chroma ET 605/52m]({{ site.url }}/siteimages/Filters/SuperScope/SuperScope-T-600m.jpg)
+4. [Chroma ET 705/72m]({{ site.url }}/siteimages/Filters/SuperScope/SuperScope-T-705m.jpg)
+5. open
+6. closed
+7. closed
+8. open
 
 ###Yokogawa Wheel Left
 1. ET460/50m 253022  
