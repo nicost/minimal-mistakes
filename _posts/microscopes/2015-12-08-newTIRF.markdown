@@ -58,8 +58,8 @@ Neos 48062-XX-.55
 
 ##Lasers:
 * CNI 405nm, 80 mW (MDLIII -9070128)
-* [Coherent Sapphire 488nm (150mW)](http://www.coherent.com/products/?2038/Sapphire-LP-Low-Power)
+* [Coherent Sapphire 488nm (150mW)](https://cohrcdn.azureedge.net/assets/pdf/COHR_SapphireLP_DS_0117_3.pdf)
 * CNI 532nm MGL-H-532nm-500mW-9060199
-* [Coherent 561nm (150mW)](http://www.coherent.com/products/?2038/Sapphire-LP-Low-Power)
+* [Coherent 561nm (150mW)](https://cohrcdn.azureedge.net/assets/pdf/COHR_SapphireLP_DS_0117_3.pdf)
 * Coherent 640nm (100mW) 
 
