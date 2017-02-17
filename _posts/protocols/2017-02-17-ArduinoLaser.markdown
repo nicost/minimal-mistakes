@@ -31,11 +31,11 @@ The idea is to power the laser with the 3.3V available on the Arduino.  When the
 
 ![Bread board setup with green laser]({{ site.url }}/siteimages/20170216_135834-laserBB.jpg){:height="298px" width="530px"}
 
+   
+Now, to switch the laser on and off through a digital output pin, we need an npn resistor, with its base connected through a (1kOhm) resistor to a digital output pin, its emitter connected to ground, and the collector to the laser, which itself is also connected to the 3.3V supply of the Arduino.  I first tested this out on a breadboard, and then soldered everything together on the Arduino shield. By making a standard configuration in Micro-Manager I can now control the green laser as a standard Micro-Manager shutter!
 
-  Now, to switch the laser on and off through a digital output pin, we need an npn resistor, with its base connected through a (1kOhm) resistor to a digital output pin, its emitter connected to ground, and the collector to the laser, which itself is also connected to the 3.3V supply of the Arduino.  I first tested this out on a breadboard, and then soldered everything together on the Arduino shield. By making a standard configuration in Micro-Manager I can now control the green laser as a standard Micro-Manager shutter!
-
-
-  Wiring up the shield in the Arduino enclosure and using a BNC connector (and also soldering the laser to a BNC connector) makes it easy to deploy the laser. The laser module has a M10-0.5 thread, so I ordered a [Thorlabs SM1 to M10-0.5 adapter](https://www.thorlabs.com/thorproduct.cfm?partnumber=S1TM10).    
+   
+Wiring up the shield in the Arduino enclosure and using a BNC connector (and also soldering the laser to a BNC connector) makes it easy to deploy the laser. The laser module has a M10-0.5 thread, so I ordered a [Thorlabs SM1 to M10-0.5 adapter](https://www.thorlabs.com/thorproduct.cfm?partnumber=S1TM10).    
 
 
 The biggest surprise came when I pointed the laser module onto the lab's power meter: 288mW!  ![Measuring power]({{ site.url }}/siteimages/20170217_113503-LaserPower.jpg){:height="298px" width="530px"}That makes it the most powerful and dangerous laser in the lab! It is quite scary that Sparkfun sells these as 5mW units, and I very much hope that nobody ever was damaged by one of these things.  There is a potentiometer on the board that can reduce power consumption and light output, which is what I will do next after moving this thing to a more laser safe environment.  B.t.w., if it indeed draws 300mA at 3.3V, then it consumes ~1000mW, hence it operates at about 28% efficiency (and should produce about 700mW of heat).  
