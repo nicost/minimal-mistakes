@@ -1,7 +1,7 @@
 ---
-layout: protocols
+layout: protocols 
 excerpt: "Protocols and Recipes"
-author: microscope
+author: nico
 share: off
 tags: [Microscopy, microscope control software, molecular motors]
 modified: 2015-11-25T13:23:02.362000-04:00
@@ -18,7 +18,7 @@ image:
 <ul>
    {% for post in site.categories.protocols %}
    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
    </li>
    {% endfor %}

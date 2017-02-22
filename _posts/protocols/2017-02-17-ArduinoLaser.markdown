@@ -5,7 +5,7 @@ author: nico
 share: false
 modified:
 categories: protocols
-tags: []
+tags: [Arduino Laser Micro-Manager]
 image:
   feature:  LaserSpeckles.jpg
   credit: Nico Stuurman

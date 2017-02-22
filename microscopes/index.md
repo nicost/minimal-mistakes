@@ -15,7 +15,7 @@ image:
 <ul>
    {% for post in site.categories.microscope %}
    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
    </li>
    {% endfor %}
