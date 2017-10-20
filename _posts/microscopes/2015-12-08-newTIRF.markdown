@@ -63,3 +63,10 @@ Neos 48062-XX-.55
 * [Coherent 561nm (150mW)](https://cohrcdn.azureedge.net/assets/pdf/COHR_SapphireLP_DS_0117_3.pdf)
 * Coherent 640nm (100mW) 
 
+##Optics:
+* Quarter Wave Plate: [Thorlabs AQWP05M-600](https://www.thorlabs.com/thorproduct.cfm?partnumber=AQWP05M-600x)
+* TIRF focussing lens: Achromatic doublet, f=100.0mm
+* Beam expander:
+** Achromatic double, f=25.4mm
+** Achromatic doublet, f=150.0mm
+
