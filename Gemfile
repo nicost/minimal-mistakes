@@ -1,5 +1,6 @@
-source "https://rubygems.org"
+source "http://rubygems.org"
 
-gem 'jekyll', '2.5.3'
-gem 'jekyll-sitemap'
+gem "jekyll", "~>3.5"
+gem "minimal-mistakes-jekyll"
+gem 'pygments.rb'
 gem 'octopress', '~> 3.0'
