@@ -47,6 +47,7 @@ Filters were obtained from [Chroma](http://chroma.com) unless otherwise indicate
 * [Quad-Emission]({{ site.url }}/siteimages/Filters/NewTIRF/QuadEmission.jpg)
 * [GFP-Cherry-Dichroic]({{ site.url }}/siteimages/Filters/NewTIRF/GFP-Cherry-Dichroic.jpg)
 * [Cy3-Cy5 siteimage Splitting]({{ site.url }}/siteimages/Filters/NewTIRF/Cy3-Cy5-Cube.jpg)
+   * * [New C3 emission filter]({{ site.url }}/siteimages/Filters/NewTIRF/96000m.jpg)
 * [ET450-50m]({{ site.url }}/siteimages/Filters/NewTIRF/ET450-50m.jpg)
 * [ET525-50m]({{ site.url }}/siteimages/Filters/NewTIRF/ET525-50m.jpg)
 * [ET600-50m]({{ site.url }}/siteimages/Filters/NewTIRF/ET600-50m.jpg)
