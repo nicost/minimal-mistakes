@@ -1,0 +1,65 @@
+---
+layout: page
+title: Why Micro-Manager 2.0-gamma?
+author: nico
+share: false
+modified:
+categories: micro-manager
+tags: [Micro-Manager, microscope control software]
+image:
+   feature: LaserSpeckles.jpg
+   credit: Nico Stuurman
+   cerditlink: http://valelab.ucsf.edu/~nstuurman
+date: 2018-07-16T13:34-08:00
+---
+
+From the Micro-Manager mailing list (May 16, 2018): 
+
+
+First, a bit of background:  While re-evaluating the beta branch about a year ago, Mark realized that there were quite a few api calls that were far from optimal.  Since the code was still beta, he started re-architecting in his mm2-next branch.  Since there were practical issues with beta, and since I knew the mark/mm2-next was the way forward, I decided late last year to pick up mm2-next, fix everything that did not work (and there was a lot of that because of the re-architecting), move to Java 8 and include the ClearVolume viewer plugin, and start building this branch (ViewerPlusCV, https://github.com/nicost/micro-manager/tree/ViewerPlusCV) as 2.0-gamma.  A couple of months ago, Mark merged a lot of the ViewerPlusCV branch back into mm2-next, and with a bit of work we hopefully will soon be able to start using the mm2-next branch as the final 2.0 beta version and all merge into that branch.
+
+   In the mean time, our lab is running 2.0gamma quite successfully (although the horrible bug of occasionally stalling live mode is still there).  --Update 2018-07-16: I believe that bug is fixed now --
+
+
+   On 5/16/18 4:04 AM, Seamus Holden wrote:
+   >
+   >     1. Does the mm2 branch on the primary GitHub repository
+   >     (https://github.com/micro-manager/micro-manager) correspond to
+   >     2.0beta or 2.0gamma?
+   >
+
+   2.0beta.  The source for 2.0gamma lives here: https://github.com/nicost/micro-manager/tree/ViewerPlusCV
+
+   >     2. Is there a reason  why the link to the MM 2.0 gamma nightly
+   >     builds has not been placed on the Micro-Manager wiki?
+   >     Specifically, I'm referring to
+   >     https://micro-manager.org/wiki/Version_2.0.
+   >
+
+   2.0gamma is my own "rogue" build.  It is basically a build for our lab that I make available to anyone who would like to use it.  A nice entry point to find the builds (plus my tutorial for the Singapore Focus On Microscopy Meeting) is here: http://valelab4.ucsf.edu/~nstuurman/fom/.  It is up to Mark to decide where the "official" release should point.
+
+   >     3. I seem to remember a forum post in which someone said that
+   >     plugins that are written for 2.0beta will not work in 2.0gamma,
+   >     but I cannot find this post. Can someone confirm the
+   >     incompatability of 2.0beta and 2.0gamma plugins?
+   >
+
+   There are changes in the api between 2.0beta and 2.0gamma, so it is likely that plugins will break.  These changes should be easily fixable, and I am happy to help find the easiest fix.
+
+   >     4. If there is an incompatibility, where might I find the 2.0gamma
+   >     plugin API?
+   >
+
+   Easiest is to work from source: https://github.com/nicost/micro-manager/tree/ViewerPlusCV.  I can try to figure out how to generate Javadoc, but that will take me a bit of time.
+
+   > 5) What differences are there between 2.0gamma and 2.0beta?
+
+   In most cases, Mark deprecated functions/classes and replaced them with newly named ones.  At one point, I got so confused by the long list of deprecated functions that I removed a bunch.  I think that Mark kept those in his mm2-next, so come to think about it, plugins may compile fine with mm2-next (which however, can not yet be used for any practical work).  Compiling them with ViewerPlusCV will either work, or there will be some missing functions/classes, in which case you will need to find the corresponding new versions.
+
+   > 6) Why are there two different 2.0 branches? Are they going to merge?
+   I hope I explained that all!  I very much hope this will all merge as soon as possible, I really want to get out of this as soon as possible, but it is out of my hands now.
+
+   > 7) Which one - gamma or beta - is currently recommended for use?
+   We run everything with gamma.  I will only work on gamma myself (recent new features include live ratio viewer, photon transfer curve generator, updates to the Localization Microscopy plugin for distance measuerements, on top of Java 8 and the ClearVolume-based viewer). Can't wait for it to merge with Mark's mm2-next though.
+
+   Hope this explains things! 

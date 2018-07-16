@@ -1,5 +1,5 @@
 ---
-layout: protocols 
+layout: general 
 excerpt: "Protocols and Recipes"
 author: nico
 share: off
