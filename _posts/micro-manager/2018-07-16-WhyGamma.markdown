@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: general 
 title: Why Micro-Manager 2.0-gamma?
 author: nico
 share: false
