@@ -15,43 +15,43 @@ date: 2015-11-24T16:09:05-08:00
 ![New Epi Scope]({{ site.url }}/siteimages/new-epi2.jpg){:height="104px" width="208px"}
 
 
-##Microscope 
+## Microscope 
 * Nikon Eclipse Ti-E with Perfect Focus System.  
 * Stage up kit with two manual dichroic turrets.  
 
-##Objectives
+## Objectives
 1. 10x Plan Fluor 10x/0.30 Ph1 DL, &infin;/1.2, WD 15.2
 2. 20x Plan Apo VC, 20x0.75, DIC N2, &infin;/0.17, WD 1.0, MRD70200
 3. 40x Plan Fluor, 40x/0.75, DIC M/N2, &infin;/0.17, WD 0.72
 4. 40x Plan Spo 40x/0.95, DIC M/N2, &infin;/0.11-0.23, WD 0.14, 
 
 
-##Lightsources
+## Lightsources
 * For EpiFluorescence: Lumencor SpectraX, LEDs: 390/22, 434/17, 485/25, 510/10, 560/25, 575/30, 650/20
 * For Spinning Disk: [Vortran VersaLase](http://www.vortranlaser.com/index.php/products-main/stradus-versalase-multiple-wavelength-modules.html) with 405, 488, 561, and 640nm lasers.
 
-##Filters
+## Filters
 
-###Lower Turret   
+### Lower Turret   
 1. Brightline Quad Edge dichroic [FF410/504/582/669-Di01-25x36](https://www.semrock.com/FilterDetails.aspx?id=FF410/504/582/669-Di01-25x36) with Quad Bandpass filter [440/521/607/700](https://www.semrock.com/FilterDetails.aspx?id=FF01-440/521/607/700-25).  
 2. Brightline [FF440/520](https://www.semrock.com/FilterDetails.aspx?id=FF440/520-Di01-25x36) with  [468/553](https://www.semrock.com/FilterDetails.aspx?id=FF01-468/553-25).  
 3. Semrock [Cy5.5-B-ZHE-ZERO](https://www.semrock.com/SetDetails.aspx?id=2774).  
 
-###Upper Turret
+### Upper Turret
 1. 50/50 mirror
 2. 450LP mirror from Chroma NC490311 reclaimed cube AT_Coumarin/Pacific Blue Long Pass set
 
-###ASI 35mm epi filter wheel
+### ASI 35mm epi filter wheel
 1. 
 2. 
 3. 
 4. 
 
-###CSU10
+### CSU10
 * Dichroic: Semrock quad dichroic (405/488/568/647)
 * Blocking Filter: Chroma [ZET405/488/561/640m]({{ site.url }}/siteimages/Filters/oldUberscope/oldUberscope_ZET405-488-561-640m.jpg)
 
-###ASI 25 mm filter wheel behind spinning disk confocal
+### ASI 25 mm filter wheel behind spinning disk confocal
 1. Chroma [ET450/50m]({{ site.url }}/siteimages/Filters/oldUberscope/oldUberscope_450-50m.jpg)
 2. Chroma [ET525/50m]({{ site.url }}/siteimages/Filters/oldUberscope/oldUberscope_525-50m.jpg)
 3. Chroma [ET610/75m]({{ site.url }}/siteimages/Filters/oldUberscope/oldUberscope_610-75m.jpg)
@@ -61,11 +61,11 @@ date: 2015-11-24T16:09:05-08:00
 7. old Quad bandpass filter
 8. Open
 
-##Cameras
+## Cameras
 1. Andor Zyla
 2. Hamamatsu EMCCD: C9100-13.  EM-CCD mode has 5.8 electrons per count, Normal CCD mode has 1.4 electrons per count
 
-##DMD
+## DMD
 The microscopes has a DMD [Texas Instruments LightCrafter 6500](http://www.ti.com/tool/dlplcr6500evm). It is illuminated with a HPX LED (405nm) unit from Sutter.
 
 ![DMD]({{ site.url }}/siteimages/newEpiDMD.jpg)

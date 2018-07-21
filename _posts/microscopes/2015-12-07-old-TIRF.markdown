@@ -12,23 +12,23 @@ image:
   credit: Nico Stuurman
   creditlink: http://valelab.ucsf.edu/~nstuurman
 ---
-![Old TIRF]({{ site.url }}/siteimages/oldTIRF.jpg){:height="104px" width="208px"}
+![Old TIRF]({{ site.url }}/siteimages/oldTIRF.jpg){:height="104px" width="208px"} [![]({{ site.url }}/siteimages/FPBase/FPBaseOldTIRF.png)](https://www.fpbase.org/microscope/ckJ4uSUBzoVsz5jB4zK7BV/)
 
-#####Microscope:
+### Microscope:
 * Nikon Eclipse TE2000-E with Perfect Focus, HHMI Tag 132744
 
-#####Objectives:
+### Objectives:
 * 100x1.49na oil, Apo TIRF DIC N2, 0.13-0.20, WD 0.12
 * 60x1.49na oil, Apo TIRF DIC N2, 0.13-0.21, WD0.12
 * 40x1.30na oil,  Plan Fluor DIC H/N2, 0.17, WD 0.2
 * 100x S-Fluor oil, 0.5-1.3na iris, 0.17, WD 0.2
 * 10x0.45na Plan Apo, 0.17, WD 4.0
 
-#####DIC Sliders:
+### DIC Sliders:
 * 100xI-R
 
-#####Filters:
-Dichroic Turret in microscope body:  
+### Filters:
+#### Dichroic Turret in microscope body:  
 
 1. DAPI HYB, [49000](https://www.chroma.com/products/sets/49000-et-dapi), C92380 (standard cube)
 2. ET GFP [49002](https://www.chroma.com/products/sets/49002-et-egfp-fitc-cy2), C92378 (standard cube)
@@ -37,7 +37,7 @@ Dichroic Turret in microscope body:
 5. z405 SET, C122714 (standard cube)
 6. [zt405/488-491/561-568/638rpc](https://www.chroma.com/products/parts/zt405-488-561-640rpc), C122537 (Chroma TIRF cube)
 
-ASI Filter Wheel (25mm filters):  
+#### ASI Filter Wheel (25mm filters):  
 
 0. [ET525/50](https://www.chroma.com/products/parts/et525-50m) (Chroma), Lot 119031 5/16/2007
 1. [ET595/50](https://www.chroma.com/products/parts/et595-50m), (Chroma) Lot 118659, 5/16/2007
@@ -48,15 +48,15 @@ ASI Filter Wheel (25mm filters):
 6. Open
 7. Closed
 
-#####Transmitted Light Path:
+### Transmitted Light Path:
 * Condenser lens: LWD 0.52 (also available: Dark Field Condenser, Oil 1.43-1.20, and HNA 1.4na oil condenser)
 * DIC NR, DIC N2, PH1,
 * Sutter TLED Light source with white LED
 
-#####Camera:
+### Camera:
 * Andor iXon DU-897E-CS0 Serial X-2777, Feb 2007.  HHMI tag nr: 132316
 
-#####Lasers:
+### Lasers:
 * Cobolt Calypso 100 491nm, 100mW, serial nr. 1581, bought from MarketTech, 2/19/2008, beam diameter 700+-50 um, divergence: 1.1 mrad
 * Cobolt Jive 50, 561nm, 50mW, serial nr 0561-03-03-1291-0050, 2007-04-11, beam diameter 746 micron, divergence 1.0 mrad
 * BSR 640,  (old laser was diameter 0.91 mm, 0.93 mrad divergence)
@@ -65,7 +65,7 @@ ASI Filter Wheel (25mm filters):
    SN: T1470781-01, FC-FLAT at side of microscope.  FC/APC at laser side
    Fiber coupler: HPUC-23AF-400/700-S-3.5AC-11, S/N: 101892-3
 
-#####Notes
+### Notes
 * Fiber output:
 
 |Date|491nm|561nm|640nm

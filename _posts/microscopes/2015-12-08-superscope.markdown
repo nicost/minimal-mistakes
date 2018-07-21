@@ -12,30 +12,32 @@ image:
   credit: Nico Stuurman
   creditlink: http://valelab.ucsf.edu/~nstuurman
 ---
-![SuperScope]({{ site.url }}/siteimages/superscope.jpg){:height="104px" width="208px"}
+![SuperScope]({{ site.url }}/siteimages/superscope.jpg){:height="104px" width="208px"} [![]({{ site.url }}/siteimages/FPBase/FPBaseSuperScope.png)](https://www.fpbase.org/embedscope/r7PWfwFegGMdYu9CsoCfAH/)
 
-##Microscope:
+[FPBase SuperScope Filter viewer]
+
+## Microscope:
 * Nikon TI-E  with motorized TIRF arm
 
-##Objectives:
+## Objectives:
 * 100x 1.49na oil immersion
 * 60x 1.20na water immersion
 
-##Cameras:
+## Cameras:
 * 2 Andor 512x512 EM cameras
 * Hamamatsu Flash 4.0
 
-##Spinning Disk Confocal
+## Spinning Disk Confocal
 * Yokogawa CSU-X with two camera option, and two Yokogawa filter wheels
 
-##Lasers:
+## Lasers:
 * Agilent MLC400 laser combiner with 405, 488, 561, and 640 nm laser lines
 * 405nm for photobleaching/activation
 * 471nm for photobleaching/activation
 
-##Filters
+## Filters
 
-###ASI Filter Wheel (TIRF/Epi, in front of Flash 4.0 camera)
+### ASI Filter Wheel (TIRF/Epi, in front of Flash 4.0 camera)
 
 1. [Chroma ET 450/40m]({{ site.url }}/siteimages/Filters/SuperScope/SuperScope-T-450m.jpg)  
 2. [Chroma ET 525/50m]({{ site.url }}/siteimages/Filters/SuperScope/SuperScope-T-525m.jpg)
@@ -46,7 +48,7 @@ image:
 7. closed
 8. open
 
-###Yokogawa Wheel Left
+### Yokogawa Wheel Left
 1. ET460/50m 253022  
 2. ET525/50m 252065
 3. ET605/52m 252702
@@ -54,11 +56,12 @@ image:
 5.  ZET 561/640m 252889
 6. D/F/RMV2 67946
 
-###Yokogawa Wheel Top
+### Yokogawa Wheel Top
 1. ET525/50m 236348  
 2. closed
 3. ZET 405/488m 253346
 4. closed
 5. closed
 6. ET460/50m
+
 

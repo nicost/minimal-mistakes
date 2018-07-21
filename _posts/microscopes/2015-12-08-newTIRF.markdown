@@ -15,13 +15,13 @@ image:
 ![New TIRF]({{ site.url }}/siteimages/newTIRF.jpg){:height="104px" width="208px"}
 
 
-##Microscope:
+## Microscope:
 * Nikon TI-E 
 
-##Objectives:
+## Objectives:
 * 100x 1.45na oil immersion
 
-##Cameras:
+## Cameras:
 
 * 2 Andor iXon 512x512 EM cameras, DU-897E
 * [iXon Left Summary]({{ site.url }}/siteimages/iXonLeftNewTIRFSummary.jpg)
@@ -30,17 +30,17 @@ image:
 * [iXon Back Data]({{ site.url }}/siteimages/iXonBackNewTIRFData.jpg)
 
 
-##Filters
+## Filters
 Filters were obtained from [Chroma](http://chroma.com) unless otherwise indicated
 
-###Upper Turret
+### Upper Turret
 
 * [Quad Cube (405-488-561-640)]({{ site.url }}/siteimages/Filters/NewTIRF/Quad.jpg)
 * [532nm Cube]({{ site.url }}/siteimages/Filters/NewTIRF/532-Cube.jpg)
 * [532-633 Cube]({{ site.url }}/siteimages/Filters/NewTIRF/532-633Set.jpg)
   
 
-###Lower Turret
+### Lower Turret
 
 * [zet405-488m Emission Filter]({{ site.url }}/siteimages/Filters/NewTIRF/zet405-488m.jpg)
 * [zet561-640m Emission Filter]({{ site.url }}/siteimages/Filters/NewTIRF/zet561-640m.jpg)
@@ -53,18 +53,18 @@ Filters were obtained from [Chroma](http://chroma.com) unless otherwise indicate
 * [ET600-50m]({{ site.url }}/siteimages/Filters/NewTIRF/ET600-50m.jpg)
 * [ET700-75m]({{ site.url }}/siteimages/Filters/NewTIRF/ET700-75m.jpg)
 
-##AOTF
+## AOTF
 * Neos 48062-XX-.55
  
 
-##Lasers:
+## Lasers:
 * CNI 405nm, 80 mW (MDLIII -9070128)
 * [Coherent Sapphire 488nm (150mW)](https://cohrcdn.azureedge.net/assets/pdf/COHR_SapphireLP_DS_0117_3.pdf)
 * CNI 532nm MGL-H-532nm-500mW-9060199
 * [Coherent 561nm (150mW)](https://cohrcdn.azureedge.net/assets/pdf/COHR_SapphireLP_DS_0117_3.pdf)
 * Coherent 640nm (100mW) 
 
-##Optics:
+## Optics:
 * Quarter Wave Plate: [Thorlabs AQWP05M-600](https://www.thorlabs.com/thorproduct.cfm?partnumber=AQWP05M-600x)
 * TIRF focussing lens: Achromatic doublet, f=100.0mm
 * Beam expander:
