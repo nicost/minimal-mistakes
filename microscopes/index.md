@@ -8,9 +8,7 @@ excerpt: "Overview of the microscopes in the Vale lab and their components."
 image:
   feature: LaserSpeckles.jpg
 ---
-***Microscopes in the Vale lab*** 
-
-Spectra/Filter viewers are provided through Talley Lambert's awesome [FPBase site](https://fpbase.org)
+***Microscopes in the Vale lab at UCSF*** 
 
 <ul>
    {% for post in site.categories.microscope %}
