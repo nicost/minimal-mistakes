@@ -8,8 +8,6 @@ modified: 2015-11-25T13:23:02.362000-04:00
 excerpt: "Various Protocols and Recipes"
 image:
   feature: LaserSpeckles.jpg
-  credit: Nico Stuurman
-  creditlink: http://valelab.ucsf.edu/~nstuurman
 ---
 ***Protocols and Recipes*** 
 

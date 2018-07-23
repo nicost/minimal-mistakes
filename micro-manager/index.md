@@ -7,8 +7,6 @@ tags: [Microscopy, microscope control software]
 excerpt: "Various Protocols and Recipes"
 image:
   feature: LaserSpeckles.jpg
-  credit: Nico Stuurman
-  creditlink: http://valelab.ucsf.edu/~nstuurman
 ---
 ***Micro-Manager Information*** 
 
