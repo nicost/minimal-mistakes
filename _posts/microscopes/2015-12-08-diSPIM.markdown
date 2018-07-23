@@ -42,3 +42,8 @@ Switching Time: < 2 ms, Repeatability: < 0.01 dB Guaranteed lifetime: > 100 Mio 
 
 
 ## Filters
+Each arm contains an ASI cube (modeled after one of the Olympus cubes) containing:
+* [Chroma ZT405/488/561/640rpc Dichroic Mirror]({{ site.url }}/siteImages/Filters/diSPIM/diSPIMDichroics.jpg)
+
+* [Chroma ZET405/488/561/640m-TRF]({{ site.url }}/sitesImages/Filters/diSPIM/diSPIMEmissionFilters.jpg)
+
