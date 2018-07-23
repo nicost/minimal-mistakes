@@ -10,6 +10,8 @@ image:
 ---
 ***Microscopes in the Vale lab*** 
 
+Spectra/Filter viewers are provided through Talley Lambert's awesome [FPBase site](https://fpbase.org)
+
 <ul>
    {% for post in site.categories.microscope %}
    <li>
