@@ -12,7 +12,7 @@ image:
   credit: Nico Stuurman
   creditlink: http://valelab.ucsf.edu/~nstuurman
 ---
-![SuperScope]({{ site.url }}/siteimages/superscope.jpg){:height="104px" width="208px"} [![]({{ site.url }}/siteimages/FPBase/FPBaseSuperScope.png)](https://www.fpbase.org/embedscope/r7PWfwFegGMdYu9CsoCfAH/)
+![SuperScope]({{ site.url }}/siteimages/superscope.jpg){:height="104px" width="208px"} [![]({{ site.url }}/siteimages/FPBase/FPBaseSuperScope.png)](https://www.fpbase.org/embedscope/r7PWfwFegGMdYu9CsoCfAH/?sticky=false)
 
 [FPBase SuperScope Filter viewer]
 

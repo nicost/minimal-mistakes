@@ -12,7 +12,7 @@ image:
   credit: Nico Stuurman
   creditlink: http://valelab.ucsf.edu/~nstuurman
 ---
-![Old TIRF]({{ site.url }}/siteimages/oldTIRF.jpg){:height="104px" width="208px"} [![]({{ site.url }}/siteimages/FPBase/FPBaseOldTIRF.png)](https://www.fpbase.org/microscope/ckJ4uSUBzoVsz5jB4zK7BV/)
+![Old TIRF]({{ site.url }}/siteimages/oldTIRF.jpg){:height="104px" width="208px"} [![]({{ site.url }}/siteimages/FPBase/FPBaseOldTIRF.png)](https://www.fpbase.org/microscope/ckJ4uSUBzoVsz5jB4zK7BV/?sticky=false)
 
 ### Microscope:
 * Nikon Eclipse TE2000-E with Perfect Focus, HHMI Tag 132744

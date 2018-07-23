@@ -12,7 +12,7 @@ image:
   credit: Nico Stuurman
   creditlink: http://valelab.ucsf.edu/~nstuurman
 ---
-![New TIRF]({{ site.url }}/siteimages/newTIRF.jpg){:height="104px" width="208px"}[![]({{ site.url }}/siteimages/FPBase/NewTIRF.png)](https://www.fpbase.org/embedscope/4UpRNewtThTaHBn6V7yBjT/)
+![New TIRF]({{ site.url }}/siteimages/newTIRF.jpg){:height="104px" width="208px"}[![]({{ site.url }}/siteimages/FPBase/NewTIRF.png)](https://www.fpbase.org/embedscope/4UpRNewtThTaHBn6V7yBjT/?sticky=false)
 
 
 ## Microscope:

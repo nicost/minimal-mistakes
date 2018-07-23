@@ -12,7 +12,7 @@ image:
   credit: Nico Stuurman
   creditlink: http://valelab.ucsf.edu/~nstuurman
 ---
-![Old TIRF]({{ site.url }}/siteimages/diSPIM.jpg){:height="104px" width="208px"}
+![Old TIRF]({{ site.url }}/siteimages/diSPIM.jpg){:height="104px" width="208px"}[![]({{ site.url }}/siteimages/FPBase/FPBasediSPIM.png)](https://www.fpbase.org/embedscope/vsCQgwwvFomTZWKQZ9Z29F/?sticky=false)
 
 ## Microscope:
 * ASI RAMM scope with motorized XY stage, diSPIM top part
@@ -43,7 +43,6 @@ Switching Time: < 2 ms, Repeatability: < 0.01 dB Guaranteed lifetime: > 100 Mio 
 
 ## Filters
 Each arm contains an ASI cube (modeled after one of the Olympus cubes) containing:
-* [Chroma ZT405/488/561/640rpc Dichroic Mirror]({{ site.url }}/siteImages/Filters/diSPIM/diSPIMDichroics.jpg)
-
-* [Chroma ZET405/488/561/640m-TRF]({{ site.url }}/sitesImages/Filters/diSPIM/diSPIMEmissionFilters.jpg)
+* [Chroma ZT405/488/561/640rpc Dichroic Mirror]({{ site.url }}/siteimages/Filters/diSPIM/diSPIMDichroics.jpg)
+* [Chroma ZET405/488/561/640m-TRF]({{ site.url }}/siteimages/Filters/diSPIM/diSPIMEmissionFilters.jpg)
 
