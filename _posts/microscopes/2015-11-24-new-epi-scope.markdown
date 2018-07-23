@@ -12,7 +12,7 @@ image:
   creditlink: http://valelab.ucsf.edu/~nstuurman
 date: 2015-11-24T16:09:05-08:00
 ---
-![New Epi Scope]({{ site.url }}/siteimages/new-epi2.jpg){:height="104px" width="208px"}
+![New Epi Scope]({{ site.url }}/siteimages/new-epi2.jpg){:height="104px" width="208px"}[![]({{ site.url }}/siteimages/FPBase/NewEpiScope.png)](https://www.fpbase.org/embedscope/uMBXgDoH5ycYxwZV92Utha/)
 
 
 ## Microscope 
