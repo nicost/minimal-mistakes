@@ -27,10 +27,11 @@ date: 2015-11-24T16:09:05-08:00
 
 
 ## Lightsources
-* For EpiFluorescence: Lumencor SpectraX, LEDs: 390/22, 434/17, 485/25, 510/10, 560/25, 575/30, 650/20
+* For EpiFluorescence: Lumencor SpectraX, LEDs with bandpass filters: 390/22, 434/17, 485/25, 510/10, 560/25, 575/30, 650/20
 * For Spinning Disk: [Vortran VersaLase](http://www.vortranlaser.com/index.php/products-main/stradus-versalase-multiple-wavelength-modules.html) with 405, 488, 561, and 640nm lasers.
 
 ## Filters
+
 
 ### Lower Turret   
 1. Brightline Quad Edge dichroic [FF410/504/582/669-Di01-25x36](https://www.semrock.com/FilterDetails.aspx?id=FF410/504/582/669-Di01-25x36) with Quad Bandpass filter [440/521/607/700](https://www.semrock.com/FilterDetails.aspx?id=FF01-440/521/607/700-25).  
@@ -42,10 +43,13 @@ date: 2015-11-24T16:09:05-08:00
 2. 450LP mirror from Chroma NC490311 reclaimed cube AT_Coumarin/Pacific Blue Long Pass set
 
 ### ASI 35mm epi filter wheel
-1. 
-2. 
-3. 
-4. 
+(order maybe wrong)
+1. [Semrock FF04-440/40m](https://www.semrock.com/FilterDetails.aspx?id=FF01-440/40-25)
+2. [Semrock FF01-542/27](https://www.semrock.com/filterdetails.aspx?id=ff01-542/27-25)
+3. [Semrock FF01-607/36m](https://www.semrock.com/filterdetails.aspx?id=ff01-607/36-25)
+4. [Semrock FF02-684/24](https://www.semrock.com/filterdetails.aspx?id=ff02-684/24-25)
+5. [Semrock FF02-472/30](https://www.semrock.com/filterdetails.aspx?id=ff02-472/30-25)
+6. [Semrock FF01-542/27](https://www.semrock.com/filterdetails.aspx?id=ff01-542/27-25)
 
 ### CSU10
 * Dichroic: Semrock quad dichroic (405/488/568/647)
