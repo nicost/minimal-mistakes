@@ -14,16 +14,16 @@ date: 2017-09-15T13:34-08:00
 ---
 ![diSPIM incubator aka The Snorkel]({{ site.url }}/siteimages/diSpimIncubator/snorkel_final.jpg){:height="404px" width="538"}
 
-#Introduction
+# Introduction
 Hari Shroff's group at NIH developed a fun way of doing light sheet microscopy by placing the sample on a coverslip glass and placing two objectives above, each at 45 degrees from the glass and 90 degrees from each other. They named the method [diSPIM](https://dx.doi.org/doi:10.1038/nbt.2713).  The hardware is made by [ASI](https://www.asiimaging.com/), and I started work on a [Micro-Manager](https://micro-manager.org) plugin many years ago, a project that really came to fruition when Jon Daniels from ASI took over the lead developer's role.  [Kara McKinley](https://valelab.ucsf.edu/olympus-digital-camera/) in our lab started working on mouse intestinal organoids and we therefore became interested in getting environmental control for the diSPIM.  There are [commercial solutions](http://dispim.org/hardware/environmental_control), but since we did not yet know if our experiments were going to work (or worth the investments), we were not ready for those.  We therefore worked on a home-grown solution. 
 
 We started out heating the standard [ASI coverslip holder](https://asiimaging.com) by attaching 50 ohm resistors that were heated using a 12V power supply, controlled by a [TE Technology TC-48-20](https://tetech.com/product/tc-48-20/) with 10k thermistors.  This worked, but led to sample evaporation.  We avoided that by covering the sample with mineral oil (actually, it was [Howard Cutting Board Oil](https://www.amazon.com/dp/B004G6X0J2/ref=asc_df_B004G6X0J25171204/?tag=hyprod-20&creative=394997&creativeASIN=B004G6X0J2&linkCode=df0&hvadid=167129443640&hvpos=1o1&hvnetw=g&hvrand=10878626644448395694&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031957&hvtargid=pla-307434512388) ).  Naturally, this excluded gas from the sample, and the organoids quickly died presumably because of the lack of CO<sub>2</sub> and oxygen.  We fixed that problem by by cutting windows in the coverslip under the sample, placing a gas-permeable membrane underneath, and flowing 5% CO<sub>2</sub> (from a home-build gas mixer to be described later) underneath the sample.   Meghan in our lab appropriately named this contraption "The Snorkel".  It has served us very well, and we are now capable of imaging the organoids for many days on end.
 
-#Parts
+# Parts
 
 * [ASI sample holder](https://asiimaging.com)
 * 4 x [M3 Thumbscrews for the sample holder](https://www.mcmaster.com/#92581A120)
-
+ 
 ![ASI coverslip holder]({{ site.url }}/siteimages/diSpimIncubator/ASIChamberjpg.jpg){:height="310px" width="502px"}
 
 * 24x50mm coverslip glass (we normally use [VWR No 1.5 cat # 48393-241](https://us.vwr.com/store/product/4645817/vwr-micro-cover-glasses-rectangular), but I used some [Fisher Brand #2, Cat. # 12-543D](https://www.fishersci.com/shop/products/fisherbrand-cover-glasses-rectangles-rectangles-no-2-thickness-0-17-0-25mm-size-50-x-24mm/12543d) since we had it, and it should be slightly stronger.
@@ -54,7 +54,7 @@ We started out heating the standard [ASI coverslip holder](https://asiimaging.co
 
 
 
-#Assembly and construction
+# Assembly and construction
 
 * Use the epoxy to glue the thermistors to the sample holder.  One on the side (as safety), one in the middle (as the actual sensor).  Make sure the one in the center will end up in the medium, but not in the way of the objectives. 
 
